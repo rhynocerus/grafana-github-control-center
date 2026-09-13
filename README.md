@@ -6,7 +6,7 @@ Proyecto práctico para montar desde cero un dashboard local de **Grafana + GitH
 
 - guía paso a paso en español;
 - dashboard JSON listo para importar en Grafana;
-- capturas del proceso real;
+- capturas y gráficos del proceso;
 - notas de seguridad sobre tokens de solo lectura;
 - troubleshooting de instalación, permisos y conexión.
 
@@ -14,11 +14,11 @@ Proyecto práctico para montar desde cero un dashboard local de **Grafana + GitH
 
 - [`docs/desde-cero-grafana-github-dashboard.md`](docs/desde-cero-grafana-github-dashboard.md) — manual completo.
 - [`dashboards/RHYNUS-GitHub-Control-Center-grafana-v3.1.json`](dashboards/RHYNUS-GitHub-Control-Center-grafana-v3.1.json) — versión actual del dashboard.
-- [`assets/`](assets/) — capturas preparadas para el tutorial.
+- [`assets/`](assets/) — material visual preparado para el tutorial.
 
 ## Vista rápida
 
-![RHYNUS GitHub Control Center](assets/step-06-rhynus-github-control-center.png)
+![RHYNUS GitHub Control Center](assets/step-06-rhynus-github-control-center.svg)
 
 ## Objetivo
 
